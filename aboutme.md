@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Yujie Hui
+subtitle: Email: hui.82@osu.edu @Sept.23, 2021
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a third year Ph.D. student in the Department of Computer Science and Engineering at The Ohio State University, advised by [Prof. Yang Wang](http://web.cse.ohio-state.edu/~wang.7564/?_gl=1*r34j3q*_ga*Nzc4MTI3NjgyLjE1MTU3MjA4OTQ.*_ga_09WC99HMPE*MTYzMjQxNTk1OC4yLjAuMTYzMjQxNTk1OC4w). I'm working on a project to characterize and analysis the impact on distributed systems under different parameter settings.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My research interests include High-Performance Interconnects and Protocols (e.g., RDMA), Edge Computing, Deep Learning Accelerators, and Distributed Systems.
 
-What else do you need?
+I used to work with [Prof. Xiaoyi Lu](https://sites.ucmerced.edu/luxi) for two years. I received my Master's degree from the Department of Electrical and Computer Engineering at The Ohio State University. And I obtained my Bachelor's degree from Shanghai Jiao Tong University (SJTU).
 
-### My story
+###Publications
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
